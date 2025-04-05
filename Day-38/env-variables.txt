@@ -1,0 +1,8 @@
+"ENV_NIX_API_KEY": "1a9fa5c9fe72e021db9612132f408f90"
+"ENV_NIX_APP_ID": "fb58ee34"
+"ENV_NIX_ENDPOINT": "/v2/natural/exercise"
+"ENV_NIX_HOST_DOMAIN": "https://trackapi.nutritionix.com"
+"ENV_PASSWORD": "f^pAz6GSAH1DS2^Ss%AL"
+"ENV_SHEET_NAME": "workouts"
+"ENV_SHEETY_ENDPOINT": "https://api.sheety.co/fc962e320995eed98b38c4e75767cfbd/myWorkoutTracker/workouts"
+"ENV_USERNAME": "reishasee"
